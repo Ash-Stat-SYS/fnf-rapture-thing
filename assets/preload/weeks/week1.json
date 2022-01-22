@@ -1,0 +1,49 @@
+{
+	"storyName": "Friendly Fire",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Recap",
+			"pico",
+			[
+				140,
+				255,
+				40
+			]
+		],
+		[
+			"Schools Out",
+			"pico",
+			[
+				140,
+				255,
+				40
+			]
+		],
+		[
+			"Get Funked",
+			"pico",
+			[
+				140,
+				255,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Pico"
+}

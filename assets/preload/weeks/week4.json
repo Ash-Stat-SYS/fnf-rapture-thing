@@ -1,0 +1,34 @@
+{
+	"storyName": "Class Fight",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fire Alarm",
+			"mom",
+			[
+				186,
+				1,
+				215
+			]
+		],
+		[
+			"Juvie",
+			"mom",
+			[
+				186,
+				1,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 4"
+}

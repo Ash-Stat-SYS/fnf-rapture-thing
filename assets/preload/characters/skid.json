@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "skididle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-300
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "skidleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-330
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "skiddown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-250
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "skidup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-283
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "skidright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skid",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "spooky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-40,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

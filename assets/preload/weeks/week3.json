@@ -1,0 +1,43 @@
+{
+	"storyName": "Sour Feelings",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Drippin Poems",
+			"senpai-pixel",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Student Duo",
+			"senpai-pixel",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Pixels Out",
+			"senpai-pixel",
+			[
+				148,
+				22,
+				83
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}
